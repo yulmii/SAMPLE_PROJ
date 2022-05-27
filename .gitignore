@@ -43,9 +43,10 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
+# Dependency directories  (안 올릴 폴더)
 node_modules/
 jspm_packages/
+download/ 
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
